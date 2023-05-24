@@ -57,14 +57,7 @@ body{
   max-width: 1140px;
   padding: 100px 0;
 }
- /* .section-row{
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  margin-right: 30px;
-  margin-left: 30px;
-}  */
+
 .section-row:hover .section-col{
   opacity: 0.2;
 }
