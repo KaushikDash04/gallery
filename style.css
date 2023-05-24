@@ -167,6 +167,24 @@ body{
   transform: scale(1.2);
 }
 
+.top{
+  position: fixed;
+  z-index: 2;
+  bottom: 80px;
+  right: 20px;
+  color: rgb(25, 7, 112);
+  font-size: 24px;
+  font-weight: 400;
+  border: none;
+  padding: 6px 15px;
+  border-radius: 10px;
+  background-color: rgb(27, 54, 179);
+}
+.top:hover{
+  cursor: pointer;
+  background-color: rgb(61, 59, 208);
+}
+
 footer {
   max-width: 100%;
   padding: 20px;
